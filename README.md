@@ -1,20 +1,42 @@
+# Hi, I'm Abulfazl Amiri 👋
 
-# Hi, I'm Abulfazl Amiri👋
-**Software Developer (Entry-Level) | Python & JavaScript | Exploring AI/ML**
+**Backend Developer · TypeScript & Python**
 
-I enjoy building practical tools, learning by doing, and solving real problems. My focus is on backend development & AI/ML, with some frontend experience for end-to-end projects.
+I build backend systems and REST APIs, with growing focus on clean architecture and AI/ML. I learn by shipping — most recently a full social-platform API built with NestJS and MongoDB.
 
-## Skills
-- **Languages:** JavaScript, Python, Java  
-- **Frontend:** HTML, CSS  
-- **Backend / Tools:** REST APIs, Linux, Git  
-- **Projects:**
-  - [classwise](https://github.com/abulfazl-amiri/classwise) - Helps teachers to manage their classes wisely and effeciently 
-  - [pwgenx](https://github.com/abulfazl-amiri/pwgenx) – Python-based password generator
-  - [do-note](https://github.com/abulfazl-amiri/do-note) – JavaScript+Tailwind based Todo manager, live on [do-note-amiri](https://do-note-amiri.vercel.app)
-  - Ongoing personal projects: web apps, backend services, AI tools
+## 🛠 Tech Stack
 
-I’m actively learning new technologies and looking for opportunities to contribute, build real systems, and grow as a software developer.
+**Languages:** TypeScript, JavaScript, Python
+
+**Backend:** Node.js, NestJS, Express, REST APIs, MongoDB, Redis, JWT Auth, Zod
+
+**Frontend:** HTML, CSS, Tailwind CSS
+
+**Tools:** Git, Linux
+
+## 🚀 Featured Projects
+
+### [ARTNOVA](https://github.com/abulfazl-amiri/artnova) — Social art platform API
+
+`NestJS` `TypeScript` `MongoDB` `Redis` `Zod`
+
+REST API where artists showcase and sell art, get discovered, and connect with buyers through verified contact channels. Layered controller/service/repository architecture, JWT auth with session management, and Redis-backed OTP email verification.
+
+### [Classwise](https://github.com/abulfazl-amiri/classwise) — Classroom management API
+
+`Express` `JavaScript` `MongoDB`
+
+REST API that helps teachers manage classes efficiently — auth, data modeling, and CRUD workflows built for real classroom use.
+
+### [do-note](https://github.com/abulfazl-amiri/do-note) — Todo manager · [Live demo](https://do-note-amiri.vercel.app)
+
+`JavaScript` `Tailwind CSS`
+
+A deployed, minimal todo app with a clean UI.
+
+## 📈 Currently learning
+
+System design · AI/ML fundamentals · Testing (unit & integration)
 <!--
 **amiri-x/amiri-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

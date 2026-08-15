@@ -28,12 +28,6 @@ REST API where artists showcase and sell art, get discovered, and connect with b
 
 REST API that helps teachers manage classes efficiently — auth, data modeling, and CRUD workflows built for real classroom use.
 
-### [do-note](https://github.com/abulfazl-amiri/do-note) — Todo manager · [Live demo](https://do-note-amiri.vercel.app)
-
-`JavaScript` `Tailwind CSS`
-
-A deployed, minimal todo app with a clean UI.
-
 ## 📈 Currently learning
 
 System design · AI/ML fundamentals · Testing (unit & integration)

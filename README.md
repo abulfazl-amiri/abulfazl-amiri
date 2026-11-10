@@ -2,35 +2,30 @@
 
 **Backend Developer · TypeScript & Python**
 
-I build backend systems and REST APIs, with growing focus on clean architecture and AI/ML. I learn by shipping — most recently a full social-platform API built with NestJS and MongoDB.
+I build backend systems and APIs, focusing on clean architecture, maintainable code, and reliable software.
 
-## 🛠 Tech Stack
+I enjoy working on the logic behind applications — designing APIs, modeling data, implementing authentication, and building systems that are easier to understand, maintain, and scale. I'm particularly interested in backend architecture and system design, and how different components work together to create reliable software.
+
+## Tech Stack
 
 **Languages:** TypeScript, JavaScript, Python
 
-**Backend:** Node.js, NestJS, Express, REST APIs, MongoDB, Redis, JWT Auth, Zod
+**Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL
 
-**Frontend:** HTML, CSS, Tailwind CSS
+**Databases & Caching:** MongoDB, Redis
+
+**Authentication & Validation:** JWT, OAuth 2.0, Zod
 
 **Tools:** Git, Linux
 
-## 🚀 Featured Projects
+## Areas of Interest
 
-### [ARTNOVA](https://github.com/abulfazl-amiri/artnova) — Social art platform API
-
-`NestJS` `TypeScript` `MongoDB` `Redis` `Zod`
-
-REST API where artists showcase and sell art, get discovered, and connect with buyers through verified contact channels. Layered controller/service/repository architecture, JWT auth with session management, and Redis-backed OTP email verification.
-
-### [Classwise](https://github.com/abulfazl-amiri/classwise) — Classroom management API
-
-`Express` `JavaScript` `MongoDB`
-
-REST API that helps teachers manage classes efficiently — auth, data modeling, and CRUD workflows built for real classroom use.
-
-## 📈 Currently learning
-
-System design · AI/ML fundamentals · Testing (unit & integration)
+- Backend architecture and system design
+- API design and development
+- Authentication and authorization
+- Database design and data modeling
+- Scalability, performance, and reliability
+- Writing clean, maintainable code
 <!--
 **amiri-x/amiri-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
